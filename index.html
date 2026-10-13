@@ -38,7 +38,8 @@
             </div>
 
             <div>
-                <label class="block text-sm font-medium text-gray-600 mb-1">Data esatta (o a partire da)</label>
+                <!-- Etichetta aggiornata -->
+                <label class="block text-sm font-medium text-gray-600 mb-1">Data esatta</label>
                 <input type="date" id="filtroData" class="w-full p-2 border border-gray-300 rounded focus:ring-blue-500 focus:border-blue-500">
             </div>
 
@@ -49,7 +50,7 @@
             
         </div>
 
-        <!-- Risultati: Lista Partite (Flex Column invece di Grid) -->
+        <!-- Risultati: Lista Partite -->
         <div id="listaPartite" class="flex flex-col gap-4">
             <!-- Le righe delle partite verranno iniettate qui da JavaScript -->
         </div>
@@ -137,7 +138,8 @@
                 if (fData !== "") {
                     const dataPartita = new Date(p.data).setHours(0,0,0,0);
                     const dataFiltro = new Date(fData).setHours(0,0,0,0);
-                    matchData = dataPartita >= dataFiltro;
+                    // LOGICA AGGIORNATA: ora filtra ESATTAMENTE il giorno selezionato
+                    matchData = dataPartita === dataFiltro; 
                 }
 
                 return matchCampionato && matchGirone && matchSquadra && matchData;
