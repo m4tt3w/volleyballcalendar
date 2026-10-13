@@ -3,10 +3,11 @@
     "gara": 731,
     "campionato": "Serie C Regionale Femminile",
     "girone": "Girone C",
-    "data": "2026-10-18T18:30:00",
+    "data": "2026-10-17T18:30:00",
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "LAZIO VOLLEY E SPORT",
-    "impianto": "PALESTRA LE CUPOLE - VIA giuseppe de luca 30 - ROMA"
+    "impianto": "PALESTRA LE CUPOLE - VIA giuseppe de luca 30 - ROMA",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
   },
   {
     "gara": 742,
@@ -15,7 +16,8 @@
     "data": "2026-10-25T16:30:00",
     "squadra_casa": "LA MOLISANA CASALANDIA DTR",
     "squadra_trasferta": "ASD NFA",
-    "impianto": "Pallone Aurelio Santoro, Roma"
+    "impianto": "Pallone Aurelio Santoro, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
   },
   {
     "gara": 749,
@@ -24,7 +26,8 @@
     "data": "2026-10-31T18:30:00",
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "ASD DEA VOLLEY",
-    "impianto": "Palestra Le Cupole, Roma"
+    "impianto": "PALESTRA LE CUPOLE - VIA giuseppe de luca 30 - ROMA",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
   },
   {
     "gara": 754,
@@ -33,7 +36,8 @@
     "data": "2026-11-07T18:30:00",
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "KK VOLLEY ROMA NUMBER ONE",
-    "impianto": "I.C. Marta Russo, Roma"
+    "impianto": "I.C. Marta Russo, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
   },
   {
     "gara": 1643,
@@ -42,7 +46,8 @@
     "data": "2026-10-18T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "STELLA MANTUS",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1648,
@@ -51,7 +56,8 @@
     "data": "2026-10-24T18:30:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "ISVF FIUMICINO",
-    "impianto": "Palestra Comunale - Via Aldo Moro 2, Vetralla"
+    "impianto": "Palestra Comunale - Via Aldo Moro 2, Vetralla",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1653,
@@ -60,7 +66,8 @@
     "data": "2026-11-01T15:30:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "SSD SANPAOLO OSTIENSE",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1661,
@@ -69,7 +76,8 @@
     "data": "2026-11-08T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "APD MARCONI STELLA",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1667,
@@ -78,7 +86,8 @@
     "data": "2026-11-14T16:00:00",
     "squadra_casa": "ROSES HOTELS CIVITAVECCHIA VOLLEY",
     "squadra_trasferta": "TIME SPORT DUEMILA12",
-    "impianto": "Palaurelio - Via di Boccea 358-360, Roma"
+    "impianto": "Palaurelio - Via di Boccea 358-360, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1678,
@@ -87,7 +96,8 @@
     "data": "2026-11-22T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "FUTURA 2000 UNDER",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1685,
@@ -96,7 +106,8 @@
     "data": "2026-11-29T18:00:00",
     "squadra_casa": "FUTURA 2000 UNDER",
     "squadra_trasferta": "TIME SPORT DUEMILA12",
-    "impianto": "Pala To Live - Via di Grotta Perfetta 103, Roma"
+    "impianto": "Pala To Live - Via di Grotta Perfetta 103, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1691,
@@ -105,7 +116,8 @@
     "data": "2026-12-06T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "VOLLEY LADISPOLI",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1696,
@@ -114,7 +126,8 @@
     "data": "2026-12-12T16:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "SPORTEAM 12 APSIA RMXVI",
-    "impianto": "Palestra IISS A. Volta - Via di Bravetta 541, Roma"
+    "impianto": "Palestra IISS A. Volta - Via di Bravetta 541, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1705,
@@ -123,7 +136,8 @@
     "data": "2026-12-20T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "POLISPORTIVA VETRALLA",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1713,
@@ -132,7 +146,8 @@
     "data": "2027-01-10T19:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "RIM SPORT CERVETERI",
-    "impianto": "L. S. Ignazio Vian - L.go Cesare Pavese 1, Bracciano"
+    "impianto": "L. S. Ignazio Vian - L.go Cesare Pavese 1, Bracciano",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1718,
@@ -141,7 +156,8 @@
     "data": "2027-01-17T18:00:00",
     "squadra_casa": "FUTURA 2000 UNDER",
     "squadra_trasferta": "TIME SPORT DUEMILA12",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1727,
@@ -150,7 +166,8 @@
     "data": "2027-01-24T20:30:00",
     "squadra_casa": "ASD SAN GAETANO VOLLEY",
     "squadra_trasferta": "TIME SPORT DUEMILA12",
-    "impianto": "IIS Via dei Papareschi - Via delle Vigne 209, Roma"
+    "impianto": "IIS Via dei Papareschi - Via delle Vigne 209, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1735,
@@ -159,7 +176,8 @@
     "data": "2027-02-14T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "APD MARCONI STELLA",
-    "impianto": "Pala To Live - Via di Grotta Perfetta 103, Roma"
+    "impianto": "Pala To Live - Via di Grotta Perfetta 103, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1738,
@@ -168,7 +186,8 @@
     "data": "2027-02-21T18:00:00",
     "squadra_casa": "ROSES HOTELS CIVITAVECCHIA VOLLEY",
     "squadra_trasferta": "TIME SPORT DUEMILA12",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1745,
@@ -177,7 +196,8 @@
     "data": "2027-02-28T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "POLISPORTIVA VETRALLA",
-    "impianto": "Oratorio San Paolo Pallone P - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Pallone P - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1753,
@@ -186,7 +206,8 @@
     "data": "2027-03-06T19:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "ISVF FIUMICINO",
-    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1758,
@@ -195,7 +216,8 @@
     "data": "2027-03-14T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "ENOTECA ROCCHI AURELIO",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1769,
@@ -204,7 +226,8 @@
     "data": "2027-03-21T18:00:00",
     "squadra_casa": "GREEN VOLLEY",
     "squadra_trasferta": "TIME SPORT DUEMILA12",
-    "impianto": "Pala To Live - Via di Grotta Perfetta 103, Roma"
+    "impianto": "Pala To Live - Via di Grotta Perfetta 103, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1775,
@@ -213,7 +236,8 @@
     "data": "2027-04-04T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "VOLLEY LADISPOLI",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1783,
@@ -222,7 +246,8 @@
     "data": "2027-04-11T20:30:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
-    "impianto": "IIS Via dei Papareschi - Via delle Vigne 209, Roma"
+    "impianto": "IIS Via dei Papareschi - Via delle Vigne 209, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1786,
@@ -231,7 +256,8 @@
     "data": "2027-04-18T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "RIM SPORT CERVETERI",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1797,
@@ -240,7 +266,8 @@
     "data": "2027-04-25T19:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "STELLA MANTUS",
-    "impianto": "L. S. Ignazio Vian - L.go Cesare Pavese 1, Bracciano"
+    "impianto": "L. S. Ignazio Vian - L.go Cesare Pavese 1, Bracciano",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1803,
@@ -249,7 +276,8 @@
     "data": "2027-05-02T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "POLISPORTIVA VETRALLA",
-    "impianto": "Palaurelio - Via di Boccea 358-360, Roma"
+    "impianto": "Palaurelio - Via di Boccea 358-360, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1810,
@@ -258,7 +286,8 @@
     "data": "2027-05-08T18:30:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "VOLLEY LADISPOLI",
-    "impianto": "Pallone N. Panzani - Via Firenze, Ladispoli"
+    "impianto": "Pallone N. Panzani - Via Firenze, Ladispoli",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1818,
@@ -267,7 +296,8 @@
     "data": "2027-05-16T18:00:00",
     "squadra_casa": "TIME SPORT DUEMILA12",
     "squadra_trasferta": "ENOTECA ROCCHI AURELIO",
-    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma"
+    "impianto": "Centro Sportivo Tellene - Via Aldo Fabrizi 80b, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63676/classifica"
   },
   {
     "gara": 1275,
@@ -276,7 +306,8 @@
     "data": "2026-10-18T16:00:00",
     "squadra_casa": "ASD OSTIA VOLLEY CLUB",
     "squadra_trasferta": "VIRTUS INVICTA POMEZIA",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1282,
@@ -285,7 +316,8 @@
     "data": "2026-10-25T19:00:00",
     "squadra_casa": "ASD ROMA CENTRO",
     "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Pala Ferrari - Via Grottaferrata 40, Roma"
+    "impianto": "Pala Ferrari - Via Grottaferrata 40, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1294,
@@ -294,7 +326,8 @@
     "data": "2026-11-01T16:00:00",
     "squadra_casa": "ASD OSTIA VOLLEY CLUB",
     "squadra_trasferta": "SAN NILO GROTTAFERRATA",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1300,
@@ -303,7 +336,8 @@
     "data": "2026-11-07T18:00:00",
     "squadra_casa": "ACSD ITALO SVEVO",
     "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Campo Polivalente - Via Muraccio dell'Archetto 23, Roma"
+    "impianto": "Campo Polivalente - Via Muraccio dell'Archetto 23, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1306,
@@ -312,7 +346,8 @@
     "data": "2026-11-14T21:00:00",
     "squadra_casa": "ASD OSTIA VOLLEY CLUB",
     "squadra_trasferta": "SEVEN VOLLEY & SPORT",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1313,
@@ -321,7 +356,8 @@
     "data": "2026-11-21T18:15:00",
     "squadra_casa": "CIAMPINO D",
     "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palazzetto Dello Sport Francesco Tarquini - Via Mura Dei Francesi 172, Ciampino"
+    "impianto": "Palazzetto Dello Sport Francesco Tarquini - Via Mura Dei Francesi 172, Ciampino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1320,
@@ -330,7 +366,8 @@
     "data": "2026-11-28T21:00:00",
     "squadra_casa": "ASD OSTIA VOLLEY CLUB",
     "squadra_trasferta": "PALLAVOLO ALBANO ALBALONGA",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1327,
@@ -339,439 +376,8 @@
     "data": "2026-12-06T16:00:00",
     "squadra_casa": "ASD OSTIA VOLLEY CLUB",
     "squadra_trasferta": "VIRTUS INVICTA POMEZIA",
-    "impianto": "Palazzetto L. Agliocchi - Via Vascarelle 110, Albano Laziale"
-  },
-  {
-    "gara": 1344,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-12-20T16:30:00",
-    "squadra_casa": "TVL ANGUILLARA G",
-    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palazzetto Dello Sport A. Fagiani - Via Duca Degli Abruzzi, Anguillara Sabazia"
-  },
-  {
-    "gara": 1345,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-01-09T21:00:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "INVICTA ROMA VOLLEY",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1355,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-01-16T19:30:00",
-    "squadra_casa": "BCC COLLI ALBANI VOLLEY SCHOOL",
-    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano Di Roma"
-  },
-  {
-    "gara": 1367,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-02-14T16:30:00",
-    "squadra_casa": "TVL ANGUILLARA G",
-    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palazzetto Dello Sport A. Fagiani - Via Duca Degli Abruzzi, Anguillara Sabazia"
-  },
-  {
-    "gara": 1373,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-02-20T21:00:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "ASD ROMA CENTRO",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1386,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-02-27T18:15:00",
-    "squadra_casa": "CIAMPINO D",
-    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palazzetto Dello Sport Francesco Tarquini - Via Mura Dei Francesi 172, Ciampino"
-  },
-  {
-    "gara": 1391,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-03-06T21:00:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "TVL ANGUILLARA G",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1398,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-03-13T18:00:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "ACSD ITALO SVEVO",
-    "impianto": "Campo Polivalente - Via Muraccio dell'Archetto 23, Roma"
-  },
-  {
-    "gara": 1404,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-03-20T21:00:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "SEVEN VOLLEY & SPORT",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1411,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-04-04T16:00:00",
-    "squadra_casa": "PALLAVOLO ALBANO ALBALONGA",
-    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palazzetto L. Agliocchi - Via Vascarelle 110, Albano Laziale"
-  },
-  {
-    "gara": 1417,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-04-10T21:00:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "ASD PALLAVOLO VELLETRI",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1435,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-04-24T20:30:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "ASD PALLAVOLO VELLETRI",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1437,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-05-01T19:30:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "BCC COLLI ALBANI VOLLEY SCHOOL",
-    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano di Roma"
-  },
-  {
-    "gara": 1446,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-05-09T18:30:00",
-    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
-    "squadra_trasferta": "ASD ROMA CENTRO",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
-  },
-  {
-    "gara": 1450,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2027-05-15T19:30:00",
-    "squadra_casa": "BIZZAGLIA PALLAVOLO POMEZIA",
-    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Palestra S.E. Margherita Hack - Via P. Nenni, Pomezia"
-  },
-  {
-    "gara": 187,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-10-17T16:30:00",
-    "squadra_casa": "ASD ROMA SPORTS",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 192,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-10-24T18:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
-    "impianto": "Aprilia Sporting Village via carroceto c/o istituto rosselli, Aprilia"
-  },
-  {
-    "gara": 197,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-10-31T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "AFROGIRO VOLLEY",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 205,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-07T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
-    "impianto": "L.S. Avogadro Succursale - Via Cirenaica 7, Roma"
-  },
-  {
-    "gara": 211,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-15T18:30:00",
-    "squadra_casa": "ASD ROMA SPORTS",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Palestra Ist. Magellano - Via Andrea Da Garessio 109, Roma"
-  },
-  {
-    "gara": 222,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-21T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "SIR FENICE ROMA",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 229,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-28T18:00:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "SIR FENICE ROMA",
-    "impianto": "Palafenice Tensostruttura LS Nomentano C.po Centra - via della bufalotta 229, Roma"
-  },
-  {
-    "gara": 235,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-12-05T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ROMA 7 VOLLEY",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 240,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-12-12T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 249,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-12-19T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 257,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-01-09T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
-    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
-  },
-  {
-    "gara": 262,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-01-16T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "A.S.D.P. TARQUINIA",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 272,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-01-23T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ASD ROMA SPORTS",
-    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
-  },
-  {
-    "gara": 278,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-02-13T16:30:00",
-    "squadra_casa": "ISVF ISOLA SACRA VOLLEY",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
-  },
-  {
-    "gara": 282,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-02-20T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ASD LATINA SCALO VOLLEY",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 289,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-02-27T16:00:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
-    "impianto": "Aprilia Sporting Village via carroceto c/o istituto rosselli, Aprilia"
-  },
-  {
-    "gara": 296,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-06T18:30:00",
-    "squadra_casa": "ARMUNDIA VIRTUS ROMA",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "L.S. Keplero - Via delle vigne 156, Roma"
-  },
-  {
-    "gara": 302,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-13T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ASD ROMA SPORTS",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 313,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-20T18:00:00",
-    "squadra_casa": "SIR FENICE ROMA",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Palafenice Tensostruttura LS Nomentano C.po Centra - via della bufalotta 229, Roma"
-  },
-  {
-    "gara": 319,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-03T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 327,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-10T16:30:00",
-    "squadra_casa": "ASD SAN GAETANO VOLLEY",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Pallone Vigna Pia - Via Filippo Tajani 50, Roma"
-  },
-  {
-    "gara": 330,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-17T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ARMUNDIA VIRTUS ROMA",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 341,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-24T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
-    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
-  },
-  {
-    "gara": 347,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-05-01T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 354,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-05-08T21:00:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "ROMA 7 VOLLEY",
-    "impianto": "Palestra IIS Giovanni Giorgi - Viale Palmiro Togliatti 1161, Roma"
-  },
-  {
-    "gara": 362,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-05-15T16:30:00",
-    "squadra_casa": "ROMA 12",
-    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
-    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
-  },
-  {
-    "gara": 1279,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-10-17T21:00:00",
-    "squadra_casa": "NUOVA VOLLEY OSTIA",
-    "squadra_trasferta": "SEVEN VOLLEY&SPORT",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
-  },
-  {
-    "gara": 1286,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-10-24T18:15:00",
-    "squadra_casa": "CIAMPINO D",
-    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palazzetto Dello Sport Francesco Tarquini - Via Mura Dei Francesi 172, Ciampino"
-  },
-  {
-    "gara": 1291,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-10-31T21:00:00",
-    "squadra_casa": "NUOVA VOLLEY OSTIA",
-    "squadra_trasferta": "TVL ANGUILLARA G",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
-  },
-  {
-    "gara": 1296,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-11-08T17:30:00",
-    "squadra_casa": "ASD PALLAVOLO VELLETRI",
-    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palestra Polivalente - Via del Campo Sportivo, Velletri"
-  },
-  {
-    "gara": 1310,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-11-21T21:00:00",
-    "squadra_casa": "NUOVA VOLLEY OSTIA",
-    "squadra_trasferta": "BCC COLLI ALBANI VOLLEY SCHOOL",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
-  },
-  {
-    "gara": 1318,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-11-28T20:30:00",
-    "squadra_casa": "INVICTA ROMA VOLLEY",
-    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Pala Andrea Scozzese - Via Roberto Rossellini 19, Roma"
-  },
-  {
-    "gara": 1325,
-    "campionato": "Serie D Regionale Femminile",
-    "girone": "Girone A",
-    "data": "2026-12-05T21:00:00",
-    "squadra_casa": "NUOVA VOLLEY OSTIA",
-    "squadra_trasferta": "BIZZAGLIA PALLAVOLO POMEZIA",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Palazzetto L. Agliocchi - Via Vascarelle 110, Albano Laziale",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1333,
@@ -780,7 +386,498 @@
     "data": "2026-12-12T21:00:00",
     "squadra_casa": "ASD OSTIA VOLLEY CLUB",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma"
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1344,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-12-20T16:30:00",
+    "squadra_casa": "TVL ANGUILLARA G",
+    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
+    "impianto": "Palazzetto Dello Sport A. Fagiani - Via Duca Degli Abruzzi, Anguillara Sabazia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1345,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-01-09T21:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "INVICTA ROMA VOLLEY",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1355,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-01-16T19:30:00",
+    "squadra_casa": "BCC COLLI ALBANI VOLLEY SCHOOL",
+    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
+    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano Di Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1367,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-02-14T16:30:00",
+    "squadra_casa": "TVL ANGUILLARA G",
+    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
+    "impianto": "Palazzetto Dello Sport A. Fagiani - Via Duca Degli Abruzzi, Anguillara Sabazia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1373,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-02-20T21:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "ASD ROMA CENTRO",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1386,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-02-27T18:15:00",
+    "squadra_casa": "CIAMPINO D",
+    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
+    "impianto": "Palazzetto Dello Sport Francesco Tarquini - Via Mura Dei Francesi 172, Ciampino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1391,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-03-06T21:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "TVL ANGUILLARA G",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1398,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-03-13T18:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "ACSD ITALO SVEVO",
+    "impianto": "Campo Polivalente - Via Muraccio dell'Archetto 23, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1404,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-03-20T21:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "SEVEN VOLLEY & SPORT",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1411,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-04-04T16:00:00",
+    "squadra_casa": "PALLAVOLO ALBANO ALBALONGA",
+    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
+    "impianto": "Palazzetto L. Agliocchi - Via Vascarelle 110, Albano Laziale",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1417,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-04-10T21:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "ASD PALLAVOLO VELLETRI",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1435,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-04-24T20:30:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "ASD PALLAVOLO VELLETRI",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1437,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-05-01T19:30:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "BCC COLLI ALBANI VOLLEY SCHOOL",
+    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano di Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1446,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-05-09T18:30:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "ASD ROMA CENTRO",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1450,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2027-05-15T19:30:00",
+    "squadra_casa": "BIZZAGLIA PALLAVOLO POMEZIA",
+    "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
+    "impianto": "Palestra S.E. Margherita Hack - Via P. Nenni, Pomezia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 187,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-10-17T16:30:00",
+    "squadra_casa": "ASD ROMA SPORTS",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 192,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-10-24T18:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
+    "impianto": "Aprilia Sporting Village via carroceto c/o istituto rosselli, Aprilia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 197,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-10-31T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "AFROGIRO VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 205,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-07T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
+    "impianto": "L.S. Avogadro Succursale - Via Cirenaica 7, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 211,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-15T18:30:00",
+    "squadra_casa": "ASD ROMA SPORTS",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra Ist. Magellano - Via Andrea Da Garessio 109, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 222,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-21T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SIR FENICE ROMA",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 229,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-28T18:00:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SIR FENICE ROMA",
+    "impianto": "Palafenice Tensostruttura LS Nomentano C.po Centra - via della bufalotta 229, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 235,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-12-05T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ROMA 7 VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 240,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-12-12T16:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 249,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-12-19T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 257,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-01-09T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 262,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-01-16T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "A.S.D.P. TARQUINIA",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 272,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-01-23T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD ROMA SPORTS",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 278,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-02-13T16:30:00",
+    "squadra_casa": "ISVF ISOLA SACRA VOLLEY",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 282,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-02-20T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD LATINA SCALO VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 289,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-02-27T16:00:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
+    "impianto": "Aprilia Sporting Village via carroceto c/o istituto rosselli, Aprilia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 296,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-03-06T18:30:00",
+    "squadra_casa": "ARMUNDIA VIRTUS ROMA",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "L.S. Keplero - Via delle vigne 156, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 302,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-03-13T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD ROMA SPORTS",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 313,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-03-20T18:00:00",
+    "squadra_casa": "SIR FENICE ROMA",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palafenice Tensostruttura LS Nomentano C.po Centra - via della bufalotta 229, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 319,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-03T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 327,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-10T16:30:00",
+    "squadra_casa": "ASD SAN GAETANO VOLLEY",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Pallone Vigna Pia - Via Filippo Tajani 50, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 330,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-17T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ARMUNDIA VIRTUS ROMA",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 341,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-24T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 347,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-05-01T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 354,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-05-08T21:00:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ROMA 7 VOLLEY",
+    "impianto": "Palestra IIS Giovanni Giorgi - Viale Palmiro Togliatti 1161, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 362,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-05-15T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63667/classifica"
+  },
+  {
+    "gara": 1279,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-10-17T21:00:00",
+    "squadra_casa": "NUOVA VOLLEY OSTIA",
+    "squadra_trasferta": "SEVEN VOLLEY&SPORT",
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1286,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-10-24T18:15:00",
+    "squadra_casa": "CIAMPINO D",
+    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
+    "impianto": "Palazzetto Dello Sport Francesco Tarquini - Via Mura Dei Francesi 172, Ciampino",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1291,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-10-31T21:00:00",
+    "squadra_casa": "NUOVA VOLLEY OSTIA",
+    "squadra_trasferta": "TVL ANGUILLARA G",
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1296,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-11-08T17:30:00",
+    "squadra_casa": "ASD PALLAVOLO VELLETRI",
+    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
+    "impianto": "Palestra Polivalente - Via del Campo Sportivo, Velletri",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1310,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-11-21T21:00:00",
+    "squadra_casa": "NUOVA VOLLEY OSTIA",
+    "squadra_trasferta": "BCC COLLI ALBANI VOLLEY SCHOOL",
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1318,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-11-28T20:30:00",
+    "squadra_casa": "INVICTA ROMA VOLLEY",
+    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
+    "impianto": "Pala Andrea Scozzese - Via Roberto Rossellini 19, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1325,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-12-05T21:00:00",
+    "squadra_casa": "NUOVA VOLLEY OSTIA",
+    "squadra_trasferta": "BIZZAGLIA PALLAVOLO POMEZIA",
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
+  },
+  {
+    "gara": 1333,
+    "campionato": "Serie D Regionale Femminile",
+    "girone": "Girone A",
+    "data": "2026-12-12T21:00:00",
+    "squadra_casa": "ASD OSTIA VOLLEY CLUB",
+    "squadra_trasferta": "NUOVA VOLLEY OSTIA",
+    "impianto": "Palacivetta - Via Gian Carlo Passeroni, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1340,
@@ -789,7 +886,8 @@
     "data": "2026-12-19T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "VIRTUS INVICTA POMEZIA",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1347,
@@ -798,7 +896,8 @@
     "data": "2027-01-10T19:00:00",
     "squadra_casa": "ASD ROMA CENTRO",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Pala Ferrari - Via Grottaferrata 40, Roma"
+    "impianto": "Pala Ferrari - Via Grottaferrata 40, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1353,
@@ -807,7 +906,8 @@
     "data": "2027-01-16T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "SAN NILO GROTTAFERRATA",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1364,
@@ -816,7 +916,8 @@
     "data": "2027-01-23T18:00:00",
     "squadra_casa": "ACSD ITALO SVEVO",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Campo Polivalente - Via Muraccio dell'Archetto 23, Roma"
+    "impianto": "Campo Polivalente - Via Muraccio dell'Archetto 23, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1369,
@@ -825,7 +926,8 @@
     "data": "2027-02-14T19:30:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "SEVEN VOLLEY & SPORT",
-    "impianto": "IC Raffaello Scuola Mondrian - Via Giuseppe Capograssi 37, Roma"
+    "impianto": "IC Raffaello - Scuola Mondrian - Via Giuseppe Capograssi 37, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1377,
@@ -834,7 +936,8 @@
     "data": "2027-02-20T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "CIAMPINO D",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1382,
@@ -843,7 +946,8 @@
     "data": "2027-02-28T16:30:00",
     "squadra_casa": "TVL ANGUILLARA G",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palazzetto Dello Sport A. Fagiani - Via Duca Degli Abruzzi, Anguillara Sabazia"
+    "impianto": "Palazzetto Dello Sport A. Fagiani - Via Duca Degli Abruzzi, Anguillara Sabazia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1387,
@@ -852,7 +956,8 @@
     "data": "2027-03-06T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "ASD PALLAVOLO VELLETRI",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1395,
@@ -861,7 +966,8 @@
     "data": "2027-03-14T16:00:00",
     "squadra_casa": "PALLAVOLO ALBANO ALBALONGA",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano di Roma"
+    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano di Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1401,
@@ -870,7 +976,8 @@
     "data": "2027-03-20T19:30:00",
     "squadra_casa": "BCC COLLI ALBANI VOLLEY SCHOOL",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano Di Roma"
+    "impianto": "Palestra S.E. Marchesi - Via Della Selva 62A, Genzano Di Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1409,
@@ -879,7 +986,8 @@
     "data": "2027-04-03T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "INVICTA ROMA VOLLEY",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1416,
@@ -888,7 +996,8 @@
     "data": "2027-04-10T19:30:00",
     "squadra_casa": "BIZZAGLIA PALLAVOLO POMEZIA",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Palestra S.E. Margherita Hack - Via P. Nenni, Pomezia"
+    "impianto": "Palestra S.E. Margherita Hack - Via P. Nenni, Pomezia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1424,
@@ -897,7 +1006,8 @@
     "data": "2027-04-17T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "ASD OSTIA VOLLEY CLUB",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1432,
@@ -906,7 +1016,8 @@
     "data": "2027-04-25T19:00:00",
     "squadra_casa": "ASD ROMA CENTRO",
     "squadra_trasferta": "NUOVA VOLLEY OSTIA",
-    "impianto": "Pala Ferrari - Via Grottaferrata 40, Roma"
+    "impianto": "Pala Ferrari - Via Grottaferrata 40, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1438,
@@ -915,7 +1026,8 @@
     "data": "2027-05-01T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "PALLAVOLO ALBANO ALBALONGA",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1445,
@@ -924,7 +1036,8 @@
     "data": "2027-05-09T19:30:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "SEVEN VOLLEY & SPORT",
-    "impianto": "IC Raffaello - Scuola Mondrian - Via Giuseppe Capograssi 37, Roma"
+    "impianto": "IC Raffaello - Scuola Mondrian - Via Giuseppe Capograssi 37, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
     "gara": 1455,
@@ -933,6 +1046,7 @@
     "data": "2027-05-15T21:00:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "ACSD ITALO SVEVO",
-    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+    "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   }
 ]
