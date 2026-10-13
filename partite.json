@@ -3,7 +3,7 @@
     "gara": 731,
     "campionato": "Serie C Regionale Femminile",
     "girone": "Girone C",
-    "data": "2026-10-17T18:30:00",
+    "data": "2026-10-18T18:30:00",
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "LAZIO VOLLEY E SPORT",
     "impianto": "PALESTRA LE CUPOLE - VIA giuseppe de luca 30 - ROMA",
@@ -26,7 +26,7 @@
     "data": "2026-10-31T18:30:00",
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "ASD DEA VOLLEY",
-    "impianto": "PALESTRA LE CUPOLE - VIA giuseppe de luca 30 - ROMA",
+    "impianto": "Palestra Le Cupole, Roma",
     "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
   },
   {
@@ -37,6 +37,226 @@
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "KK VOLLEY ROMA NUMBER ONE",
     "impianto": "I.C. Marta Russo, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 761,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2026-11-14T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "OMNIAMOTORDIGI MAX SABAUDIA",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 767,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2026-11-21T16:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ITSMARTCO VIRTUS ROMA",
+    "impianto": "IIS Via dei Papareschi Ex Colomba Antonietti - Via delle Vigne 209, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 774,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2026-11-28T16:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ASD ROMA OTTO TEAM",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 781,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2026-12-05T17:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "CIVITA CROMO",
+    "impianto": "Palestra Comunale Pino Smargiassi - Via Rio Maggiore, Civita Castellana",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 786,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2026-12-12T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "BCC COLLI ALBANI VOLLEY SCHOOL GENZANO",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 793,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2026-12-19T17:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "SSD DON ORIONE PALL ARL",
+    "impianto": "Palestra S.E. Marchesi - Via della Selva 62A, Genzano di Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 802,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-01-09T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "LAZIO VOLLEY E SPORT LAZIO",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 806,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-01-16T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ASCOR A.S.D. ASCOR",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 813,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-01-23T16:30:00",
+    "squadra_casa": "ASD ROMA OTTO TEAM",
+    "squadra_trasferta": "ASD NFA",
+    "impianto": "L.S. E. Amaldi Palestra Grande - Via Aspertini 437, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 823,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-02-13T18:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "OMNIAMOTORDIGI MAX SABAUDIA",
+    "impianto": "Pala Antonio Vitaletti - Via Conte Verde 8C, Sabaudia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 833,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-02-20T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "LA MOLISANA CASALANDIA DTR",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 841,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-03-07T17:00:00",
+    "squadra_casa": "UNITED VOLLEY POMEZIA",
+    "squadra_trasferta": "ASD NFA",
+    "impianto": "Palazzetto Comunale - Via Varrone, Pomezia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 845,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-03-06T16:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "PALLAVOLO FUTURA TERRACINA 92",
+    "impianto": "L.S. E. Amaldi Palestra Grande - Via Aspertini 437, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 853,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-03-13T16:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ITSMARTCO VIRTUS ROMA",
+    "impianto": "IIS Via dei Papareschi Ex Colomba Antonietti - Via delle Vigne 209, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 857,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-03-20T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ASD DEA VOLLEY",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 864,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-04-04T16:00:00",
+    "squadra_casa": "ASD DEA VOLLEY",
+    "squadra_trasferta": "ASD NFA",
+    "impianto": "Palazzetto Dello Sport - Viale Europa, Colleferro",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 870,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-04-10T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "UNITED VOLLEY POMEZIA",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 878,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-04-17T17:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "UNITED VOLLEY POMEZIA",
+    "impianto": "Palazzetto Comunale - Via Varrone, Pomezia",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 883,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-04-24T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ASCOR A.S.D. ASCOR",
+    "impianto": "Palacarucci - Viale Europa 206, Terracina",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 895,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-05-02T16:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "KK VOLLEY ROMA NUMBER ONE",
+    "impianto": "Palacarucci - Viale Europa 206, Terracina",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 898,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-05-09T20:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "LA MOLISANA CASALANDIA DTR",
+    "impianto": "Pallone Aurelio Santoro - via vertumno 40, Roma",
+    "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
+  },
+  {
+    "gara": 904,
+    "campionato": "Serie C Regionale Femminile",
+    "girone": "Girone C",
+    "data": "2027-05-15T18:30:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ASD DEA VOLLEY",
+    "impianto": "Palestra Le Cupole - Via giuseppe de luca 30, Roma",
     "url_classifica": "https://public.fipavonline.it/gironi/63670/classifica"
   },
   {
@@ -926,7 +1146,7 @@
     "data": "2027-02-14T19:30:00",
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "SEVEN VOLLEY & SPORT",
-    "impianto": "IC Raffaello - Scuola Mondrian - Via Giuseppe Capograssi 37, Roma",
+    "impianto": "IC Raffaello Scuola Mondrian - Via Giuseppe Capograssi 37, Roma",
     "url_classifica": "https://public.fipavonline.it/gironi/63674/classifica"
   },
   {
