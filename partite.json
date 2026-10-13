@@ -3,7 +3,7 @@
     "gara": 731,
     "campionato": "Serie C Regionale Femminile",
     "girone": "Girone C",
-    "data": "2026-10-17T18:30:00",
+    "data": "2026-10-18T18:30:00",
     "squadra_casa": "PALLAVOLO FUTURA TERRACINA 92",
     "squadra_trasferta": "ASD NFA",
     "impianto": "Palestra Le Cupole, Roma"
@@ -34,240 +34,6 @@
     "squadra_casa": "ASD NFA",
     "squadra_trasferta": "KK VOLLEY ROMA NUMBER ONE",
     "impianto": "I.C. Marta Russo, Roma"
-  },
-  {
-    "gara": 185,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-10-17T16:30:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
-    "impianto": "L.S. Avogadro Succursale - Via Cirenaica 7, Roma"
-  },
-  {
-    "gara": 196,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-10-24T18:00:00",
-    "squadra_casa": "SIR FENICE ROMA",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "Palafenice Tensostruttura LS Nomentano, Roma"
-  },
-  {
-    "gara": 203,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-10-31T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "SIR FENICE ROMA",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 208,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-07T16:30:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
-    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
-  },
-  {
-    "gara": 215,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-14T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 220,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-21T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
-    "impianto": "Palestra A. Jacopucci - Via dello Stadio, Tarquinia"
-  },
-  {
-    "gara": 228,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-11-28T21:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "AFROGIRO VOLLEY",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 234,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-12-05T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ROMA 7 VOLLEY",
-    "impianto": "L.S. Avogadro Succursale - Via Cirenaica 7, Roma"
-  },
-  {
-    "gara": 240,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-12-12T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ARMUNDIA VIRTUS ROMA",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 247,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2026-12-19T18:30:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ARMUNDIA VIRTUS ROMA",
-    "impianto": "L.S. Keplero - Via delle Vigne 156, Roma"
-  },
-  {
-    "gara": 256,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-01-09T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ROMA 12",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 260,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-01-16T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 267,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-01-23T21:00:00",
-    "squadra_casa": "ROMA 7 VOLLEY",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "Palestra IIS Giovanni Giorgi, Roma"
-  },
-  {
-    "gara": 277,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-02-13T20:30:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "A.S.D.P. TARQUINIA",
-    "impianto": "Palestra Ist. Magellano - Via Andrea Da Garessio 109, Roma"
-  },
-  {
-    "gara": 287,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-02-20T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
-    "impianto": "L.S. Keplero - Via delle Vigne 156, Roma"
-  },
-  {
-    "gara": 295,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-07T18:30:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ASD ROMA SPORTS",
-    "impianto": "Palestra Ist. Magellano - Via Andrea Da Garessio 109, Roma"
-  },
-  {
-    "gara": 299,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-06T21:00:00",
-    "squadra_casa": "ROMA 7 VOLLEY",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "Palestra IIS Giovanni Giorgi, Roma"
-  },
-  {
-    "gara": 307,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-13T16:30:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
-    "impianto": "Pallone Vigna Pia - Via Filippo Tajani 50, Roma"
-  },
-  {
-    "gara": 311,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-03-20T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "AFROGIRO VOLLEY",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 318,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-03T16:00:00",
-    "squadra_casa": "AFROGIRO VOLLEY",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "L.S. Avogadro Succursale - Via Cirenaica 7, Roma"
-  },
-  {
-    "gara": 324,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-10T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "ASD ROMA SPORTS",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 331,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-17T18:30:00",
-    "squadra_casa": "KK VOLLEY ROMA",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "L.S. Keplero - Via delle Vigne 156, Roma"
-  },
-  {
-    "gara": 337,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-04-24T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "SIR FENICE ROMA",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
-  },
-  {
-    "gara": 348,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-05-01T18:00:00",
-    "squadra_casa": "ASD LATINA SCALO VOLLEY",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "Palestra S.E. Camillo Caetani - Via delle Scuole 12 Latina Scalo"
-  },
-  {
-    "gara": 351,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-05-08T20:30:00",
-    "squadra_casa": "A.S.D. APRILIAVOLLEY NUMBERONE",
-    "squadra_trasferta": "ASD NFA",
-    "impianto": "Aprilia Sporting Village, Aprilia"
-  },
-  {
-    "gara": 358,
-    "campionato": "Serie C Regionale Maschile",
-    "girone": "Girone B",
-    "data": "2027-05-15T16:00:00",
-    "squadra_casa": "ASD NFA",
-    "squadra_trasferta": "AFROGIRO VOLLEY",
-    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
   },
   {
     "gara": 1643,
@@ -943,5 +709,239 @@
     "squadra_casa": "NUOVA VOLLEY OSTIA",
     "squadra_trasferta": "ACSD ITALO SVEVO",
     "impianto": "Oratorio San Paolo Palestra Interna - Viale di San Paolo 12, Roma"
+  },
+  {
+    "gara": 187,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-10-17T16:30:00",
+    "squadra_casa": "ASD ROMA SPORTS",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 192,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-10-24T18:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
+    "impianto": "Aprilia Sporting Village via carroceto c/o istituto rosselli, Aprilia"
+  },
+  {
+    "gara": 197,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-10-31T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "AFROGIRO VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 205,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-07T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
+    "impianto": "L.S. Avogadro Succursale - Via Cirenaica 7, Roma"
+  },
+  {
+    "gara": 211,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-15T18:30:00",
+    "squadra_casa": "ASD ROMA SPORTS",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra Ist. Magellano - Via Andrea Da Garessio 109, Roma"
+  },
+  {
+    "gara": 222,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-21T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SIR FENICE ROMA",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 229,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-11-28T18:00:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SIR FENICE ROMA",
+    "impianto": "Palafenice Tensostruttura LS Nomentano C.po Centra - via della bufalotta 229, Roma"
+  },
+  {
+    "gara": 235,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-12-05T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ROMA 7 VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 240,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-12-12T16:00:00",
+    "squadra_casa": "ASD NFA",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra Le Cupole - Via Giuseppe De Luca 30, Roma"
+  },
+  {
+    "gara": 249,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2026-12-19T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 257,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-01-09T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
+  },
+  {
+    "gara": 262,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-01-16T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "A.S.D.P. TARQUINIA",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 272,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-01-23T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD ROMA SPORTS",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
+  },
+  {
+    "gara": 278,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-02-13T16:30:00",
+    "squadra_casa": "ISVF ISOLA SACRA VOLLEY",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
+  },
+  {
+    "gara": 282,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-02-20T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD LATINA SCALO VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 289,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-02-27T16:00:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "A.S.D. APRILIAVOLLEY NUMBERONE",
+    "impianto": "Aprilia Sporting Village via carroceto c/o istituto rosselli, Aprilia"
+  },
+  {
+    "gara": 296,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-03-06T18:30:00",
+    "squadra_casa": "ARMUNDIA VIRTUS ROMA",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "L.S. Keplero - Via delle vigne 156, Roma"
+  },
+  {
+    "gara": 302,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-03-13T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD ROMA SPORTS",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 313,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-03-20T18:00:00",
+    "squadra_casa": "SIR FENICE ROMA",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Palafenice Tensostruttura LS Nomentano C.po Centra - via della bufalotta 229, Roma"
+  },
+  {
+    "gara": 319,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-03T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ASD SAN GAETANO VOLLEY",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 327,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-10T16:30:00",
+    "squadra_casa": "ASD SAN GAETANO VOLLEY",
+    "squadra_trasferta": "ROMA 12",
+    "impianto": "Pallone Vigna Pia - Via Filippo Tajani 50, Roma"
+  },
+  {
+    "gara": 330,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-17T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ARMUNDIA VIRTUS ROMA",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 341,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-04-24T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ISVF ISOLA SACRA VOLLEY",
+    "impianto": "Palestra ITC Paolo Baffi - Via Gennaro Maffettone, Fiumicino"
+  },
+  {
+    "gara": 347,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-05-01T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
+  },
+  {
+    "gara": 354,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-05-08T21:00:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "ROMA 7 VOLLEY",
+    "impianto": "Palestra IIS Giovanni Giorgi - Viale Palmiro Togliatti 1161, Roma"
+  },
+  {
+    "gara": 362,
+    "campionato": "Serie C Regionale Maschile",
+    "girone": "Girone B",
+    "data": "2027-05-15T16:30:00",
+    "squadra_casa": "ROMA 12",
+    "squadra_trasferta": "SSD SAN PAOLO OSTIENSE",
+    "impianto": "Palestra L.S. Ettore Majorana - Via Carlo Avolio 111, Roma"
   }
 ]
