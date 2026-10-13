@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calendario Partite FIPAV</title>
+    <title>Calendario Gare gruppo #chissà</title>
     <!-- Carica Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -12,7 +12,7 @@
     <!-- Header -->
     <header class="bg-blue-600 text-white p-6 shadow-md">
         <div class="max-w-6xl mx-auto">
-            <h1 class="text-3xl font-bold">Calendario Gare societario</h1>
+            <h1 class="text-3xl font-bold">Calendario Gare gruppo #chissà</h1>
             <p class="text-blue-100 mt-1">Trova tutte le partite filtrando per squadra, categoria e data</p>
         </div>
     </header>
@@ -49,9 +49,9 @@
             
         </div>
 
-        <!-- Risultati: Griglia Partite -->
-        <div id="listaPartite" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <!-- Le card delle partite verranno iniettate qui da JavaScript -->
+        <!-- Risultati: Lista Partite (Flex Column invece di Grid) -->
+        <div id="listaPartite" class="flex flex-col gap-4">
+            <!-- Le righe delle partite verranno iniettate qui da JavaScript -->
         </div>
 
         <!-- Messaggio nessun risultato -->
@@ -70,8 +70,6 @@
 
         // Inizializza l'app caricando i dati
         document.addEventListener('DOMContentLoaded', () => {
-            // Nota: in locale (file://) il fetch potrebbe dare errore CORS. 
-            // Funzionerà perfettamente su GitHub Pages o su un server locale.
             fetch('partite.json')
                 .then(response => {
                     if (!response.ok) throw new Error("Errore nel caricamento del file JSON");
@@ -88,7 +86,7 @@
                 })
                 .catch(error => {
                     console.error("Impossibile caricare le partite:", error);
-                    document.getElementById('listaPartite').innerHTML = `<div class="col-span-full text-red-500 text-center p-4 bg-red-50 rounded">Errore nel caricamento dei dati. Assicurati che il file 'partite.json' esista.</div>`;
+                    document.getElementById('listaPartite').innerHTML = `<div class="text-red-500 text-center p-4 bg-red-50 rounded">Errore nel caricamento dei dati. Assicurati che il file 'partite.json' esista.</div>`;
                 });
 
             // Aggiungi event listener a tutti gli input dei filtri
@@ -128,21 +126,18 @@
             const fSquadra = document.getElementById('filtroSquadra').value.toLowerCase().trim();
 
             const filtrate = partiteGlobali.filter(p => {
-                // Controllo Campionato e Girone
                 const matchCampionato = fCampionato === "" || p.campionato === fCampionato;
                 const matchGirone = fGirone === "" || p.girone === fGirone;
                 
-                // Controllo Squadra (cerca sia in casa che in trasferta)
                 const matchSquadra = fSquadra === "" || 
                     p.squadra_casa.toLowerCase().includes(fSquadra) || 
                     p.squadra_trasferta.toLowerCase().includes(fSquadra);
                 
-                // Controllo Data (seleziona solo le partite di quel giorno in poi)
                 let matchData = true;
                 if (fData !== "") {
                     const dataPartita = new Date(p.data).setHours(0,0,0,0);
                     const dataFiltro = new Date(fData).setHours(0,0,0,0);
-                    matchData = dataPartita >= dataFiltro; // Mostra da quella data in poi
+                    matchData = dataPartita >= dataFiltro;
                 }
 
                 return matchCampionato && matchGirone && matchSquadra && matchData;
@@ -151,7 +146,7 @@
             renderPartite(filtrate);
         }
 
-        // Genera l'HTML per le card delle partite
+        // Genera l'HTML per le righe delle partite
         function renderPartite(partite) {
             const container = document.getElementById('listaPartite');
             const messaggioVuoto = document.getElementById('nessunRisultato');
@@ -166,39 +161,42 @@
             }
 
             partite.forEach(p => {
-                // Formatta la data (es: 17 Ottobre 2026, 18:30)
                 const dataObj = new Date(p.data);
                 const dataFormattata = dataObj.toLocaleDateString('it-IT', { weekday: 'short', day: 'numeric', month: 'long', year: 'numeric' });
                 const oraFormattata = dataObj.toLocaleTimeString('it-IT', { hour: '2-digit', minute:'2-digit' });
 
                 const cardHTML = `
-                    <div class="bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow p-5 flex flex-col h-full border-l-4 border-l-blue-500">
+                    <div class="bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 flex flex-col md:flex-row md:items-center justify-between border-l-4 border-l-blue-500 gap-4">
                         
-                        <div class="flex justify-between items-start mb-3">
-                            <div>
-                                <span class="inline-block px-2 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded uppercase tracking-wide">${p.campionato}</span>
-                                <span class="inline-block px-2 py-1 bg-gray-100 text-gray-600 text-xs font-semibold rounded uppercase tracking-wide ml-1">${p.girone}</span>
+                        <!-- Blocco Sinistra: Data e Ora -->
+                        <div class="w-full md:w-1/4 flex flex-col">
+                            <div class="text-sm font-semibold text-gray-600 capitalize flex items-center mb-1">
+                                <svg class="w-4 h-4 mr-1 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                                ${dataFormattata}
                             </div>
-                            <span class="text-xs font-mono text-gray-400">Gara #${p.gara}</span>
+                            <div class="font-bold text-blue-600 text-lg">${oraFormattata}</div>
+                            <div class="text-xs font-mono text-gray-400 mt-1">Gara #${p.gara}</div>
                         </div>
 
-                        <div class="text-sm text-gray-500 mb-2 flex items-center">
-                            <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
-                            <span class="font-semibold text-gray-700 capitalize">${dataFormattata}</span> 
-                            <span class="mx-1">•</span> 
-                            <span class="font-semibold text-blue-600">${oraFormattata}</span>
+                        <!-- Blocco Centro: Squadre -->
+                        <div class="w-full md:w-2/4 flex flex-col md:items-center text-left md:text-center border-t border-b md:border-t-0 md:border-b-0 border-gray-100 py-3 md:py-0">
+                            <div class="text-lg font-bold text-gray-800 w-full truncate" title="${p.squadra_casa}">${p.squadra_casa}</div>
+                            <div class="text-xs font-bold text-gray-400 my-0.5">VS</div>
+                            <div class="text-lg font-bold text-gray-800 w-full truncate" title="${p.squadra_trasferta}">${p.squadra_trasferta}</div>
                         </div>
 
-                        <div class="my-4 flex-grow">
-                            <div class="text-lg font-bold text-gray-800">${p.squadra_casa}</div>
-                            <div class="text-sm font-semibold text-gray-400 my-1">VS</div>
-                            <div class="text-lg font-bold text-gray-800">${p.squadra_trasferta}</div>
+                        <!-- Blocco Destra: Campionato e Impianto -->
+                        <div class="w-full md:w-1/4 flex flex-col md:items-end text-left md:text-right mt-1 md:mt-0">
+                            <div class="mb-2">
+                                <span class="inline-block px-2 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded uppercase tracking-wide">${p.campionato}</span>
+                                <span class="inline-block px-2 py-1 bg-gray-100 text-gray-600 text-xs font-semibold rounded uppercase tracking-wide mt-1 lg:mt-0 ml-0 lg:ml-1">${p.girone}</span>
+                            </div>
+                            <div class="text-sm text-gray-600 flex items-start md:justify-end mt-1">
+                                <svg class="w-4 h-4 mr-1 mt-0.5 flex-shrink-0 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+                                <span class="line-clamp-2">${p.impianto}</span>
+                            </div>
                         </div>
-
-                        <div class="mt-auto pt-3 border-t border-gray-100 text-sm text-gray-600 flex items-start">
-                            <svg class="w-4 h-4 mr-1 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                            <span class="line-clamp-2">${p.impianto}</span>
-                        </div>
+                        
                     </div>
                 `;
                 container.innerHTML += cardHTML;
