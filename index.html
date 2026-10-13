@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calendario Gare Gruppo #chissà &#10084</title>
+    <title>Calendario Gare gruppo #chissà</title>
     <!-- Carica Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -12,7 +12,7 @@
     <!-- Header -->
     <header class="bg-blue-600 text-white p-6 shadow-md">
         <div class="max-w-6xl mx-auto">
-            <h1 class="text-3xl font-bold">Calendario Gare Gruppo #chissà &#10084</h1>
+            <h1 class="text-3xl font-bold">Calendario Gare gruppo #chissà</h1>
             <p class="text-blue-100 mt-1">Trova tutte le partite filtrando per squadra, categoria e data</p>
         </div>
     </header>
@@ -49,7 +49,7 @@
             
         </div>
 
-        <!-- Risultati: Lista Partite (Flex Column) -->
+        <!-- Risultati: Lista Partite -->
         <div id="listaPartite" class="flex flex-col gap-4">
             <!-- Le righe delle partite verranno iniettate qui da JavaScript -->
         </div>
@@ -164,6 +164,9 @@
                 const dataObj = new Date(p.data);
                 const dataFormattata = dataObj.toLocaleDateString('it-IT', { weekday: 'short', day: 'numeric', month: 'long', year: 'numeric' });
                 const oraFormattata = dataObj.toLocaleTimeString('it-IT', { hour: '2-digit', minute:'2-digit' });
+                
+                // Genera link a Google Maps
+                const urlGoogleMaps = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.impianto)}`;
 
                 const cardHTML = `
                     <div class="bg-white border border-gray-200 rounded-lg shadow-sm hover:shadow-md transition-shadow p-4 flex flex-col lg:flex-row lg:items-center justify-between border-l-4 border-l-blue-500 gap-4">
@@ -178,10 +181,10 @@
                             <div class="text-xs font-mono text-gray-400 mt-1">Gara #${p.gara}</div>
                         </div>
 
-                        <!-- Blocco Centro: Squadre (Affiancate orizzontalmente) -->
+                        <!-- Blocco Centro: Squadre -->
                         <div class="w-full lg:w-2/4 flex flex-row items-center justify-center text-center border-t border-b lg:border-t-0 lg:border-b-0 border-gray-100 py-4 lg:py-0">
                             <div class="text-lg font-bold text-gray-800 w-2/5 truncate text-right px-2" title="${p.squadra_casa}">${p.squadra_casa}</div>
-                            <div class="text-xs font-bold text-gray-400 w-1/5 bg-gray-50 py-1 rounded-full">VS</div>
+                            <div class="text-xs font-bold text-gray-400 w-1/5 bg-gray-50 py-1 rounded-full flex-shrink-0">VS</div>
                             <div class="text-lg font-bold text-gray-800 w-2/5 truncate text-left px-2" title="${p.squadra_trasferta}">${p.squadra_trasferta}</div>
                         </div>
 
@@ -191,9 +194,12 @@
                                 <span class="inline-block px-2 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded uppercase tracking-wide">${p.campionato}</span>
                                 <span class="inline-block px-2 py-1 bg-gray-100 text-gray-600 text-xs font-semibold rounded uppercase tracking-wide mt-1 xl:mt-0 ml-0 xl:ml-1">${p.girone}</span>
                             </div>
+                            <!-- Link a Google Maps -->
                             <div class="text-sm text-gray-600 flex items-start lg:justify-end mt-1">
                                 <svg class="w-4 h-4 mr-1 mt-0.5 flex-shrink-0 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
-                                <span class="line-clamp-2">${p.impianto}</span>
+                                <a href="${urlGoogleMaps}" target="_blank" rel="noopener noreferrer" class="line-clamp-2 hover:text-blue-600 hover:underline transition-colors" title="Apri su Google Maps">
+                                    ${p.impianto}
+                                </a>
                             </div>
                         </div>
                         
